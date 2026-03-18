@@ -1,0 +1,12 @@
+# Prime Move Explorer
+
+Interactive simulator of the Prime Move Operator.
+
+The identical five-stage cycle (Split → Tension → Failed Merge → Scar → Decay) generates four growth pathways in real time from one seed:
+
+- Spiral (φ convergence)
+- Optimization
+- Aggregation (fractal)
+- Mixed
+
+All panels run the same core rules with pathway-specific direction bias. Live scar-ratio tracking included.
